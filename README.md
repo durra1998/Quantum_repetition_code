@@ -6,6 +6,7 @@ This project demonstrates the implementation of the quantum repetition code usin
 - Implement a 3-qubit repetition code.
 - Simulate realistic quantum noise using depolarizing errors.
 - Perform syndrome measurements to detect bit-flip errors.
-- Construct a lookup table decoder based on statistical syndrome outcomes.
+- Construct a lookup table decoder based on statistical syndrome outcomes to evaluate logical decoding performance.
 - Estimate the probability of incorrect decoding.
+
 
